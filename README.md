@@ -1,7 +1,11 @@
-The repo covers the most popular in the literature techniques for pattern recognition, as they are typically employed in a number of practical applications. 
-The implementation is done from scratch math level.
+# Pattern Recognition
 
-In more detail, the following are covered:
+## Info
+This repo covers state-of-the-art techniques for pattern recognition, as they are typically employed in a number of practical applications. 
+
+**The implementation is done from scratch-math level.**
+
+In more detail, the following concepts are covered :
 
 - Decision theory and the Bayesian approach to classification.
 - Maximum likelihood parameter estimation and the expectation maximization algorithm.
